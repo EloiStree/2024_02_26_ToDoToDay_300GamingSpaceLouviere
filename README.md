@@ -8,10 +8,12 @@ Je peux avoir le code à l'écran ?
 
 
 Vous avez des questions et vous voulez pas oublier de me la poser ?
-- https://github.com/EloiStree/2024_02_26_ToDoToDay_300GamingSpaceLouviere/issues/new?title=Question: 
+- [Question =>](https://github.com/EloiStree/2024_02_26_ToDoToDay_300GamingSpaceLouviere/issues/new?title=Question%20:) 
 
 Vous avez envie d'apprendre à faire un truc en particulier durant l'atelier:
-- https://github.com/EloiStree/2024_02_26_ToDoToDay_300GamingSpaceLouviere/issues/new?title=Comment on fait: 
+
+- [Comment on fait ? =>]([https://github.com/EloiStree/2024_02_26_ToDoToDay_300GamingSpaceLouviere/issues/new?title=Question%20:](https://github.com/EloiStree/2024_02_26_ToDoToDay_300GamingSpaceLouviere/issues/new?title=Comment%20on%20fait: )https://github.com/EloiStree/2024_02_26_ToDoToDay_300GamingSpaceLouviere/issues/new?title=Comment%20on%20fait:) 
+  
 
 
   
